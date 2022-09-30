@@ -1,0 +1,7 @@
+.card-white{
+  background: ghostwhite;
+  border-radius: 4px;
+  box-shadow: 2px 2px 15px rgb(0 0 0 / 30%);
+  padding : 20px;
+  margin : 15px;
+}

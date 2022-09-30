@@ -1,0 +1,19 @@
+.banner {
+  background-image : linear-gradient(137deg, rgba(0,0,0,01) 0%, rgba(0,0,0,0.1) 40%), url(../../images/bretagne.jpg);
+  background-size : cover;
+  background-position: center;
+  padding: 80px;
+  margin : 5px;
+}
+
+.banner h1 {
+  color: ghostwhite ;
+  font-size: 90px;
+  padding-bottom: 15px;
+
+}
+
+.banner h2 {
+  color : ghostwhite;
+  font-size: 60px;
+}

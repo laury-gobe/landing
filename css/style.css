@@ -1,0 +1,30 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url("components/card-white.css");
+@import url("components/list-inline.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+{}
+body {
+  font-family: "Noto Serif", serif ;
+  font-size:  15px;
+  justify: center;
+  text-align: center;
+  background-color: #ADD8E645;
+}
+
+h1{
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2,a{
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+}
